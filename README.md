@@ -23,16 +23,8 @@ ubicados los estilos contemplados dentro del proyecto.
 
 * Las imágenes empleadas se encuentran dentro de la carpeta `assets`.
 
-
-* Encontrarás un archivo base `index.html` en el cual deberás escribir la
-  estructura de tu proyecto y enlazar tus archivos de estilos (CSS).
-
-* En la carpeta `css` tendrás un archivo base `main.css` donde agregarás los
-  estilos necesarios para tu proyecto.
-
-* Dentro de la carpeta `assets` se encuentra la carpeta `images` donde
-  encontrarás todas las imágenes necesarias para completar tu proyecto.
-
+* Los iconos empleados se encuentran dentro de las carpetas `icomoon`y
+las fuentes dentro de`font-awesome-4.7.0`.
 
 ## A tener en cuenta
 
